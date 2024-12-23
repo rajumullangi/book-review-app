@@ -1,0 +1,30 @@
+.book-review{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    padding-bottom: 60px;
+
+}
+.tile{
+    align-content: center;
+    justify-content: center;
+}
+.Textarea{
+    width: 380px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.addreview{
+    height: 40px;
+    width: 380px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(32, 67, 67);
+    color: white;
+
+}
